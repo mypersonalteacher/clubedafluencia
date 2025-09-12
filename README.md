@@ -6,7 +6,7 @@ Este é o repositório da landing page para o "Clube da Fluência", um programa 
 
 Você pode visualizar o projeto em funcionamento no seguinte link:
 
-**[https://gerlonmagalhaes.github.io/clubedafluencia/](https://www.google.com/search?q=https://gerlonmagalhaes.github.io/clubedafluencia/)**
+**[https://gerlonmagalhaes.github.io/clubedafluencia/](https://gerlonmagalhaes.github.io/clubedafluencia/)**
 
 ## 🛠️ Tecnologias Utilizadas
 
